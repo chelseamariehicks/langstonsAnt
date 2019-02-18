@@ -2,7 +2,7 @@
 ** Author:          Chelsea Hicks
 ** Date:            1/17/19
 ** Description:     The source code file for the Ant class and functions
-**					to run the simulation of Langston's Ant.
+**		    to run the simulation of Langston's Ant.
 *************************************************************************/
 
 #include <iostream>
