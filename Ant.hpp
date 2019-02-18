@@ -3,13 +3,13 @@
 ** Date:            1/17/19
 ** Description:     The header file for the Ant class, which declares
 **                  all functions and variables pertaining to
-**					the Langston's Ant program, including the 
-**					declaration of an ant object to initialize an
-**					ant, its location, and direction. This header file
-**					also declares a function to be used to print the
-**					board created in antMain.cpp, a function to make
-**					all the moves of the ant, and a function to determine
-**					the next direction of the ant.
+**		    the Langston's Ant program, including the 
+**		    declaration of an ant object to initialize an
+**		    ant, its location, and direction. This header file
+**		    also declares a function to be used to print the
+**		    board created in antMain.cpp, a function to make
+**		    all the moves of the ant, and a function to determine
+**		    the next direction of the ant.
 *************************************************************************/
 
 #ifndef ANT_HPP
